@@ -1,0 +1,8 @@
+BasedOnStyle: Google
+SpaceAfterCStyleCast: true
+PointerBindsToType: false
+DerivePointerBinding: false
+IncludeBlocks: Preserve
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: Inline
+QualifierAlignment: Left
